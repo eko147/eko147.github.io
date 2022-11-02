@@ -5,8 +5,8 @@
       <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
       <description>안녕하세요 eko입니다</description>
       <language>en-us</language>
-      <managingEditor>e.melies1o14@gmail.com (Eunji KO)</managingEditor>
-      <webMaster>e.melies1o14@gmail.com (Eunji KO)</webMaster>
+      <managingEditor>e.melies1o14@gmail.com (Eunji Ko)</managingEditor>
+      <webMaster>e.melies1o14@gmail.com (Eunji Ko)</webMaster>
       <lastBuildDate>Thu, 03 Nov 2022 00:32:14 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/new-features-in-v1</link>
     <description>Get Next Line</description>
     <pubDate>Thu, 03 Nov 2022 00:32:14 GMT</pubDate>
-    <author>e.melies1o14@gmail.com (Eunji KO)</author>
+    <author>e.melies1o14@gmail.com (Eunji Ko)</author>
     <category>C</category><category>42Seoul</category><category>지아코</category>
   </item>
 
