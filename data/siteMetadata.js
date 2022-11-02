@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: "Eunji's blog",
-  author: 'Eunji KO',
+  author: 'Eunji Ko',
   headerTitle: "Eunji's blog",
   description: '안녕하세요 eko입니다',
   language: 'en-us',
